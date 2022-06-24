@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wulanramadhan/wulan-todo-app.github.io.git/static/css/main.ca77c53e.css",
+    "main.js": "/wulanramadhan/wulan-todo-app.github.io.git/static/js/main.8b079386.js",
+    "index.html": "/wulanramadhan/wulan-todo-app.github.io.git/index.html",
+    "main.ca77c53e.css.map": "/wulanramadhan/wulan-todo-app.github.io.git/static/css/main.ca77c53e.css.map",
+    "main.8b079386.js.map": "/wulanramadhan/wulan-todo-app.github.io.git/static/js/main.8b079386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca77c53e.css",
+    "static/js/main.8b079386.js"
+  ]
+}
